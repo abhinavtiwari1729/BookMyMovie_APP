@@ -45,7 +45,6 @@ function returnMovies(url){
     });
 }
 
-
 form.addEventListener("submit" , (e) =>{
     e.preventDefault();
     main.innerHTML = '';
